@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Bootstrap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://LitzyMan.github.io/Bootstrap-tuto",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
